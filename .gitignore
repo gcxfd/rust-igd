@@ -10,3 +10,4 @@
 Cargo.lock
 # Visual Studio Code files
 .vscode/
+*.out
