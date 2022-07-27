@@ -4,5 +4,4 @@ mod gateway;
 mod search;
 mod soap;
 
-pub use self::gateway::Gateway;
-pub use self::search::search_gateway;
+pub use self::{gateway::Gateway, search::search_gateway};
