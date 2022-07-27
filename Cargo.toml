@@ -11,7 +11,7 @@ license = "MIT"
 name = "igd_async_std"
 readme = "README.md"
 repository = "https://github.com/gcxfd/rust-igd"
-version = "0.12.0"
+version = "0.12.1"
 
 [package.metadata.docs.rs]
 all-features = true
